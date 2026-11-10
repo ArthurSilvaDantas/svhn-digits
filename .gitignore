@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+
+# large or downloadable artifacts
+data
+weights/
+*.pt
+predictions.txt
+
+# notebook outputs regenerated on run (weights live on the Hugging Face Hub)
+notebooks/outputs/weights/
+notebooks/outputs/figures/
+notebooks/outputs/*_RESULTS.txt
+*_RESULTS.txt
