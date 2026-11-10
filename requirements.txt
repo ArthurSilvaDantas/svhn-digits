@@ -1,0 +1,10 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+tabulate>=0.9
+matplotlib>=3.8
+pillow>=10
+huggingface_hub>=0.23
+jupyterlab>=4.0
