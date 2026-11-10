@@ -3,8 +3,8 @@
 [![Model on HF](https://img.shields.io/badge/%F0%9F%A4%97%20model-arthursilvadantas%2FSVHN-yellow)](https://huggingface.co/arthursilvadantas/SVHN)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-📄 Full write-up of every experiment: [`docs/EXPERIMENTS.md`](docs/EXPERIMENTS.md) ·
-📓 [Executed notebooks](notebooks/) · 📑 [Report](docs/report/) ·
+📄 Full write-up of every experiment: [`docs/EXPERIMENTS.md`](docs/EXPERIMENTS.md)<br>
+📓 [Executed notebooks](notebooks/)<br>
 🤗 [Model + all 17 checkpoints](https://huggingface.co/arthursilvadantas/SVHN)
 
 How much does each design choice actually buy you on real-world digit images? This project answers that with
